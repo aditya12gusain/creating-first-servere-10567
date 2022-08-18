@@ -1,0 +1,19 @@
+{
+  "name": "creating-first-servere-10567",
+  "version": "1.0.0",
+  "description": "Our first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya12gusain/creating-first-servere-10567.git"
+  },
+  "author": "Aditya Gusain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya12gusain/creating-first-servere-10567/issues"
+  },
+  "homepage": "https://github.com/aditya12gusain/creating-first-servere-10567#readme"
+}
