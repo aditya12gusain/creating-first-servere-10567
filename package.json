@@ -4,7 +4,8 @@
   "description": "Our first node.js server",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aditya12gusain/creating-first-servere-10567/issues"
   },
-  "homepage": "https://github.com/aditya12gusain/creating-first-servere-10567#readme"
+  "homepage": "https://github.com/aditya12gusain/creating-first-servere-10567#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
